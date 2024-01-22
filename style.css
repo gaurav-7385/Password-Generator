@@ -105,3 +105,9 @@
   display: flex;
   flex-direction: column;
 }
+.copymsg {
+  padding-bottom: 20px;
+  position: absolute;
+  color: white;
+  transform: translateX(-15%) translateY(-50%);
+}
