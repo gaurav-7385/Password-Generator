@@ -14,7 +14,7 @@ const symbols = '~!@#$%^&*()_-=+{[}]:;"<,>.?/';
 
 let password = ""; //at starting password is null
 let passwordlength = 10; //by default password length is 10
-let checkCount = 1; //by default one checkbox is marked as ticked
+let checkCount = 0; //by default one checkbox is marked as ticked
 handleSlider();
 //set strength circle to grey
 
